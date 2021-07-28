@@ -15,3 +15,4 @@ Click below button to deploy.
 ## 📌 Credits
 - [Youtube-DL](https://youtube-dl.org) for Youtube-DL python
 - [Me](https://github.com/AnjanaMadu) for this Project 🤪
+- [Original Repo](https://github.com/AnjanaMadu/YTPlaylistDL) Original repo of this bot
